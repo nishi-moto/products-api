@@ -2,7 +2,7 @@
 
 ## The Purpose
 
-This is an exercise / small project that uses Docker, PostGres SQL and Express to build an API to handle Product data.
+This is an exercise / small project that uses Docker, PostGres SQL and Express to build an API to handle Product data. The docker file was provided for us.
 
 
 ### The tables and their data
