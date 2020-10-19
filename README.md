@@ -4,9 +4,9 @@
 This is an exercise / small project that uses Docker, PostGres SQL and Express to build an API to handle Product data. The docker file was provided for us.
 
 
-### The tables and their data
+### The tables
 
-Tables in the database.
+Tables in the database:
 
 * `ProductGroups` that holds groups of products such as Food, Beverages and Toys
   * The product group should have two fields
@@ -21,9 +21,9 @@ Tables in the database.
   * `ProductGroupId` - the foreign key to the product group that the product belongs too.
 
 
-### The API endpoints for you to implement
+### The API endpoints 
 
-The API should have the following endpoints, listed here in suggested implementation order:
+The API should have the following endpoints:
 
 * `GET` `/api/products` - list all products, including group name for each product
 * `GET` `/api/products/:id`  - get one, including group name
