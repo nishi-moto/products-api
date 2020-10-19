@@ -1,7 +1,7 @@
 # Products API
 ## The Purpose
 
-This is an exercise / small project that uses Docker, PostGres SQL and Express to build an API to handle Product data. The docker file was provided for us.
+This is an exercise / small project that uses Docker, PostGres SQL and Express to build an API to handle Product data. The "docker-compose.yml" docker file was provided for us.
 
 
 ### The tables
